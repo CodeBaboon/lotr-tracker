@@ -29,15 +29,14 @@
         <div class="row">
             <div class="span2">
                 Spheres:
-                <span ng-repeat="sphere in match.spheres">
-                    {{sphere}}
-                </span>
+                <input type="text" ng-repeat="sphere in match.spheres" ng-model="sphere">
+                </input>
             </div>
             <div class="span2">
                 Heroes:
-                <span ng-repeat="hero in match.heroes">
-                     {{hero}}
-                </span>
+                <ul class="unstyled" ng-repeat="hero in match.heroes">
+                     <li>{{hero}}</li>
+                </ul>
             </div>
             <div class="span2 hidden-phone">
                 Scenario: {{match.scenario}}

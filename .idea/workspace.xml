@@ -7,7 +7,7 @@
     <file path="/server.bat" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370576084773" ignored="false" />
     <file path="/app.js" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370578887619" ignored="false" />
     <file path="/resultDetails.html" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370578342305" ignored="false" />
-    <file path="/matchDetails.html" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370917358882" ignored="false" />
+    <file path="/matchDetails.html" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370919052807" ignored="false" />
     <file path="/MatchController.js" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370578624444" ignored="false" />
     <file path="/Dummy.txt" changelist="e8c9875f-726d-49bd-ac79-6cd5b9720de7" time="1370915219389" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="matchDetails.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="matchDetails.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/matchDetails.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="110" selection-start="1771" selection-end="1771" vertical-scroll-proportion="-15.076923">
+            <state line="31" column="89" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.43674698">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchController.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MatchController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/controllers/MatchController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="22" selection-start="319" selection-end="319" vertical-scroll-proportion="0.22173913">
+            <state line="9" column="22" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,8 +79,8 @@
         <option value="$PROJECT_DIR$/app/js/filters.js" />
         <option value="$PROJECT_DIR$/app/resultDetails.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/matchDetails.html" />
         <option value="$PROJECT_DIR$/app/js/controllers/MatchController.js" />
+        <option value="$PROJECT_DIR$/app/matchDetails.html" />
       </list>
     </option>
   </component>
@@ -407,16 +407,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/matchDetails.html">
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/MatchController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="110" selection-start="1771" selection-end="1771" vertical-scroll-proportion="-15.076923">
+        <state line="9" column="22" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers/MatchController.js">
+    <entry file="file://$PROJECT_DIR$/app/matchDetails.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="319" selection-end="319" vertical-scroll-proportion="0.22173913">
+        <state line="31" column="89" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.43674698">
           <folding />
         </state>
       </provider>
