@@ -14,8 +14,8 @@
         <a class="brand" href="#"><img class="img-rounded" src="/img/lotr-logo.png" /></a>
         <ul class="nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
+            <li><a href="#">Analysis</a></li>
+            <li><a href="#">Decks</a></li>
         </ul>
     </div>
 </div>
@@ -43,13 +43,18 @@
                 Scenario: {{match.scenario}}
             </div>
             <div class="span2">
-                Result: {{match.result}}
+                Result:
+                <div class="btn-group">
+                    <button type="button" class="btn btn-primary" ng-model="match.result" btn-radio="'W'">Win</button>
+                    <button type="button" class="btn btn-primary" ng-model="match.result" btn-radio="'L'">Loss</button>
+                </div>
             </div>
         </div>
     </div>
 </div>
 <script src="/lib/bootstrap.min.js"></script>
 <script src="/lib/angular/angular.js"></script>
+<script src="/lib/ui-bootstrap-tpls-0.3.0.min.js"></script>
 <script src="/js/app.js"></script>
 <script src="/js/controllers/MatchController.js"></script>
 </body>

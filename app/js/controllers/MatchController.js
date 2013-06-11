@@ -7,7 +7,7 @@ lotrApp.controller('MatchController',
             spheres: ['Leadership'],
             heroes: ['Aragorn', 'Theodred', 'Gloin'],
             scenario: 'Passage through Mirkwood',
-            result: 'w'
+            result: 'L'
         }
     }
 );

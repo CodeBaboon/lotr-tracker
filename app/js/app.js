@@ -2,4 +2,4 @@
 
 
 // Declare app level module which depends on filters, and services
-var lotrApp = angular.module('lotrApp', []);
+var lotrApp = angular.module('lotrApp', ['ui.bootstrap']);
